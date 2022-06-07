@@ -17,6 +17,9 @@ This is a simple nn that learns binary operators (XOR, AND, NAND).
 ## Compilation
 `make all`
 
+## Dependencies
+[Eigen Matrix Library](https://eigen.tuxfamily.org/index.php?title=Main_Page)
+
 ### Sources:
 - https://mlfromscratch.com/neural-networks-explained/#/
 - https://www.youtube.com/watch?v=k_VdZVJeEyg&t=1647s
